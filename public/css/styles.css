@@ -1,0 +1,21 @@
+.box {
+  height: 190;
+  padding: 10;
+  text-align: center;
+  background: #ccc;
+}
+.boxGrey {
+  height: 190;
+  padding: 10;
+  text-align: center;
+  background-color: #aaa;
+}
+.boxWater {
+  color: #3a85ff;
+}
+/* .box :nth-child(odd) {
+  background-color: #aaa;
+}
+.box :nth-child(even) {
+  background-color: #ccc;
+} */
